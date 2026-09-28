@@ -62,3 +62,15 @@ To transform raw supply chain data into meaningful business insights that suppor
 
 
 To transform raw supply chain data into meaningful business insights that support inventory planning, sales monitoring, and supplier performance evaluation.
+
+
+
+## Dashboard Screenshots
+
+### Page 1: Sales Overview
+
+![Sales Overview](images/Page%201%20Sales%20Overview.png)
+
+### Page 2: Inventory & Supplier Analysis
+
+![Inventory & Supplier Analysis](images/Page%202%20Inventory%20%26%20Supplier%20Analysis.png)
