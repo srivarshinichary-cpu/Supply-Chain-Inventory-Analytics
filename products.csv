@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_cost,unit_price,reorder_level,lead_time_days
+P001,Product 001,Electronics,135.08,263.72,95,5
+P002,Product 002,Personal Care,174.28,350.61,32,14
+P003,Product 003,Personal Care,61.35,84.0,59,4
+P004,Product 004,Office Supplies,69.2,119.09,75,15
+P005,Product 005,Office Supplies,86.64,116.3,59,14
+P006,Product 006,Apparel,37.35,68.03,55,4
+P007,Product 007,Electronics,26.87,40.01,33,17
+P008,Product 008,Personal Care,87.72,158.82,50,10
+P009,Product 009,Home & Kitchen,43.94,82.08,39,17
+P010,Product 010,Electronics,121.89,232.0,44,3
+P011,Product 011,Office Supplies,80.94,108.59,74,6
+P012,Product 012,Apparel,150.55,305.41,70,12
+P013,Product 013,Personal Care,127.25,183.96,68,6
+P014,Product 014,Personal Care,58.98,75.6,48,9
+P015,Product 015,Personal Care,150.48,259.07,96,15
+P016,Product 016,Personal Care,145.64,227.97,27,5
+P017,Product 017,Office Supplies,72.2,141.17,47,15
+P018,Product 018,Electronics,54.75,106.05,29,4
+P019,Product 019,Apparel,124.12,188.61,47,6
+P020,Product 020,Office Supplies,28.6,58.91,96,14
+P021,Product 021,Office Supplies,39.18,58.66,49,18
+P022,Product 022,Home & Kitchen,5.3,8.95,92,6
+P023,Product 023,Electronics,142.5,209.13,59,8
+P024,Product 024,Apparel,121.01,247.54,75,20
+P025,Product 025,Personal Care,128.11,178.06,56,21
+P026,Product 026,Personal Care,141.41,182.16,41,14
+P027,Product 027,Office Supplies,84.77,137.31,81,11
+P028,Product 028,Apparel,104.1,217.94,97,9
+P029,Product 029,Office Supplies,28.6,57.43,41,14
+P030,Product 030,Office Supplies,24.16,45.57,82,14
+P031,Product 031,Office Supplies,121.64,244.15,40,8
+P032,Product 032,Home & Kitchen,86.91,174.64,77,3
+P033,Product 033,Electronics,103.48,174.99,83,5
+P034,Product 034,Office Supplies,138.64,210.53,55,21
+P035,Product 035,Apparel,115.71,220.57,78,10
+P036,Product 036,Electronics,101.43,183.83,41,12
+P037,Product 037,Apparel,102.42,160.55,26,11
+P038,Product 038,Apparel,57.5,76.49,27,17
+P039,Product 039,Home & Kitchen,9.42,17.75,55,4
+P040,Product 040,Personal Care,80.86,119.11,92,4
+P041,Product 041,Electronics,41.77,85.47,30,8
+P042,Product 042,Personal Care,75.9,110.42,56,12
+P043,Product 043,Personal Care,154.2,208.84,76,15
+P044,Product 044,Home & Kitchen,45.17,88.37,36,12
+P045,Product 045,Electronics,14.26,19.68,77,11
+P046,Product 046,Apparel,53.52,75.06,44,20
+P047,Product 047,Office Supplies,55.67,97.95,84,6
+P048,Product 048,Apparel,120.5,240.2,66,13
+P049,Product 049,Personal Care,102.04,144.59,63,13
+P050,Product 050,Personal Care,141.97,214.91,34,11
+P051,Product 051,Personal Care,120.92,231.05,57,18
+P052,Product 052,Electronics,75.52,156.78,88,8
+P053,Product 053,Home & Kitchen,147.27,246.77,21,21
+P054,Product 054,Office Supplies,33.39,45.82,80,9
+P055,Product 055,Office Supplies,8.0,10.09,59,13
+P056,Product 056,Electronics,19.85,28.69,77,12
+P057,Product 057,Office Supplies,131.14,178.62,73,19
+P058,Product 058,Electronics,85.29,155.74,54,11
+P059,Product 059,Personal Care,32.38,43.83,44,8
+P060,Product 060,Personal Care,92.18,154.9,70,3

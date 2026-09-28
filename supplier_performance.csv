@@ -1,0 +1,13 @@
+supplier_id,supplier_name,region,total_orders,on_time_orders,avg_delay_days,on_time_delivery_rate
+S01,Supplier 01,Central,42,11,5.38,26.19
+S06,Supplier 06,North,45,12,4.82,26.67
+S11,Supplier 11,North,40,9,4.6,22.5
+S10,Supplier 10,West,55,14,4.47,25.45
+S12,Supplier 12,West,40,11,4.3,27.5
+S08,Supplier 08,Central,40,9,4.25,22.5
+S04,Supplier 04,East,40,11,4.13,27.5
+S09,Supplier 09,North,36,11,4.08,30.56
+S07,Supplier 07,Central,38,12,3.66,31.58
+S05,Supplier 05,East,33,12,3.61,36.36
+S02,Supplier 02,West,47,16,3.43,34.04
+S03,Supplier 03,West,44,16,2.41,36.36
