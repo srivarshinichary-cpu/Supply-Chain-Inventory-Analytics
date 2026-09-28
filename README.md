@@ -69,8 +69,8 @@ To transform raw supply chain data into meaningful business insights that suppor
 
 ### Page 1: Sales Overview
 
-![Sales Overview](images/Page%201%20Sales%20Overview.png)
+![Sales Overview](images/sales_overview.png)
 
 ### Page 2: Inventory & Supplier Analysis
 
-![Inventory & Supplier Analysis](images/Page%202%20Inventory%20%26%20Supplier%20Analysis.png)
+![Inventory & Supplier Analysis](images/inventory_supplier_analysis.png)
