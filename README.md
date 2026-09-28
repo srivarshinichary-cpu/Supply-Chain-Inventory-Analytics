@@ -61,9 +61,6 @@ The project uses synthetic practice data to demonstrate data cleaning, analysis,
 To transform raw supply chain data into meaningful business insights that support inventory planning, sales monitoring, and supplier performance evaluation.
 
 
-To transform raw supply chain data into meaningful business insights that support inventory planning, sales monitoring, and supplier performance evaluation.
-
-
 
 ## Dashboard Screenshots
 
